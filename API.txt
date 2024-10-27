@@ -1,0 +1,35 @@
+Twitter API:
+API Key: D1nvknKFAiASmvsNmedPJLqYw
+Secret API: AAePNnO0XkE1w6IACale6qmbggSEx2hdqAFs94HCliUdZq1aGd
+Bearer Token: AAAAAAAAAAAAAAAAAAAAAEQUwQEAAAAAT6NiQQR3YhX1AT0Q87%2F3LpkxZe0%3DjxjfRxA3beXPD9ukWpzxh3IAufnkPtSCmSiDtjpitMjfPPYJqZ
+Access Token: 1840112874930483201-GeMBw2Fm1RgC4wXitIUzsYgsPLkQKE
+Secret Access Token: uwGqXyjMdYwGCfDiJzZHyd1jdnwKZDBIm3orw6wGMLPlZ
+Base URL: https://api.twitter.com/2
+NewsAPI:
+API Key: 6ae54003dc074c33996d4648a4c748b0
+Base URL: https://newsapi.org/v2
+Quandl:
+API Key: sLSKCCS3RPFWwKTLP1pT
+Base URL: https://data.nasdaq.com
+Financial Modeling Prep (FMP):
+API Key: DWDVakJ9w6egpqXGzCx1b8UXQ5oS5T7C
+Macroeconomic Endpoint: https://financialmodelingprep.com/api/v4/economic?name=GDP
+Base URL: https://financialmodelingprep.com
+OpenAI:
+API Key: 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
+Org ID: org-2bQdl6bHUB80xBPBU7ZYolNU
+Base URL: https://api.openai.com/v1
+Alpha Vantage:
+API Key: VFD2GABLGNQMJC32
+Plaid:
+Security Code: QCSXWG-GQMSOGO-RKQW2CV-HWKWGQ
+Polygon.io:
+API Key: rTQl5una2aoTpBcQRKeRnjPFOjvuJ1A8
+FRED (Federal Reserve Economic Data):
+API Key: 92c1f38ebe08312f8b1e8a9dea6fbedc
+AWS:
+Access Key: JyyY4lxOjT2GxZWn4pGiM7BfY2R2Vrb16otI8tG7
+RapidAPI for Google News:
+Host: google-news13.p.rapidapi.com
+API Key: e585e20af4msh117470e7b12fd7dp1c8f55jsndf20baa1d8c4
+Google Business News URL: https://google-news13.p.rapidapi.com/business?lr=en-US
